@@ -3,12 +3,12 @@ Information Retrieval System for Intranets based on ElasticSearch.
 
 
 
-#Sistema de Recuperación de Información para Intranets basado en ElasticSearch
+# Sistema de Recuperación de Información para Intranets basado en ElasticSearch
 
-Palabras clave: Sistema de recuperación de Información, buscador, Intranet, ElasticSearch, documentos, relevancia.
+__Palabras clave: Sistema de recuperación de Información, buscador, Intranet, ElasticSearch, documentos, relevancia.__
 
 
-Resumen
+__Resumen__
 
 Este Trabajo Fin de Máster propone una solución inteligente a un problema real existente en muchas empresas privadas y por lo tanto intranets de las mismas: la búsqueda de documentos almacenados en su servidor.
 
@@ -21,11 +21,11 @@ Para realizar este proyecto, vamos a utilizar una biblioteca muy potente llamada
 De este modo, un usuario podrá buscar en cuestión de segundos dónde está el documento que desea encontrar (en caso de que exista), o alguno parecido que le pueda servir de ayuda. Podrá visualizarlo o descargarlo sin perder tiempo abriendo rutas del servidor, o abriendo documentos para ver si sus contenidos eran los esperados para el mismo.
 
 
-#Information Search and Retrieval System  for Intranets based on ElasticSearch
+# Information Search and Retrieval System  for Intranets based on ElasticSearch
 
-Keywords:  Information Search and Retrieval System, Search Engine, Intranet, documents, ElasticSearch, relevance.
+__Keywords:  Information Search and Retrieval System, Search Engine, Intranet, documents, ElasticSearch, relevance.__
 
-Abstract
+__Abstract__
 
 This Final Master Project proposes an intelligent solution for a real problem that is frecuent in most of the private companies that have an intranet: the search of documents that are kept in their internal servers.
 
